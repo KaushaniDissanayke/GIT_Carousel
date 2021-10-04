@@ -1,0 +1,27 @@
+.navbar{
+    position: absolute;
+    background: transparent;
+    width: 100%;
+    z-index: 10;
+    border-bottom: 1px solid rgba(255,255,255,0,3);
+}
+
+.search-bar{
+    background: transparent;
+    padding-top: 80px;
+    padding-left: 80px;
+    position: absolute;
+    z-index: 1;
+    top: 10px;
+    width: 100%;
+
+}
+
+.carousel-item{
+    height: 100vh;
+    min-height: 300px;
+    background: no-repeat center center scroll;
+    -webkit-background-size: cover;
+    background-size: cover;
+}
+
